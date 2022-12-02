@@ -1,5 +1,4 @@
 import Head from 'next/head'
-import clsx from 'clsx'
 
 import { Home } from '@/features/home/components'
 

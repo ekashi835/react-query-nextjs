@@ -47,3 +47,7 @@ npm test
 ```
 
 - axios
+
+## TanStack Query
+
+https://tanstack.com/query/v4/docs/installation
