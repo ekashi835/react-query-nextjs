@@ -36,3 +36,14 @@ npm test
 
 - clsx
   https://www.npmjs.com/package/clsx
+
+## Mock Service Worker
+
+- msw
+  https://mswjs.io/
+
+```
+  npx msw init public --save
+```
+
+- axios
